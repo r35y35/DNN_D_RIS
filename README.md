@@ -8,7 +8,9 @@ leveraging available computational resources, thereby ensuring reliable time com
 This computational module employs:
 
 Python 3.9.12
+
 Tensorflow 2.7.0
+
 Matplotlib
 
 
